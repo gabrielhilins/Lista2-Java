@@ -25,10 +25,10 @@ public class Lista2q5 {
              System.out.println("NÚMEROS IGUAIS!");
         }
         else if(x > y){
-             System.out.println("X É MAIOR!:");
+             System.out.println("X É MAIOR!");
         }
         else {
-             System.out.println("Y É MAIOR");
+             System.out.println("Y É MAIOR!");
         }
         
         
